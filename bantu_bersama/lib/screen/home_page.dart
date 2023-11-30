@@ -1,4 +1,4 @@
-import 'package:bantu_bersama/screen/detail_donnasi.dart';
+import 'package:bantu_bersama/screen/detail_donasi.dart';
 // import 'package:bantu_bersama/screen/form_donasi_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
