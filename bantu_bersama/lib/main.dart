@@ -1,13 +1,18 @@
 import 'package:bantu_bersama/firebase_options.dart';
 import 'package:bantu_bersama/model/theme_mode_data.dart';
+<<<<<<< Updated upstream
 import 'package:firebase_core/firebase_core.dart';
+=======
+// import 'package:bantu_bersama/screen/detail_donasi.dart';
+import 'package:bantu_bersama/screen/introduction_page.dart';
+>>>>>>> Stashed changes
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 
 import 'model/data_donasi_provider.dart';
 import 'model/donasi_provider.dart';
-import 'screen/introduction_page.dart';
+// import 'screen/introduction_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
