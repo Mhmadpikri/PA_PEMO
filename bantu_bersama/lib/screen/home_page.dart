@@ -1,10 +1,5 @@
-<<<<<<< Updated upstream
 import 'package:bantu_bersama/screen/detail_donnasi.dart';
 // import 'package:bantu_bersama/screen/form_donasi_page.dart';
-=======
-import 'package:bantu_bersama/screen/detail_donasi.dart';
-import 'package:bantu_bersama/screen/form_donasi_page.dart';
->>>>>>> Stashed changes
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -68,11 +63,7 @@ class daftarDonasi extends StatelessWidget {
         Navigator.push(
           context,
           MaterialPageRoute(
-<<<<<<< Updated upstream
             builder: (context) => const detaildonasi(),
-=======
-            builder: (context) => detaildonasi(),
->>>>>>> Stashed changes
           ),
         );
       },
